@@ -1,17 +1,17 @@
 ---
  title: 'Contenido de la pagina'
- layout: '../layouts/Layout.astro'
+ layout: '../../layouts/Layout.astro'
 ---
 
-#Esto es un ejemplo de articulo
+# Esto es un ejemplo de articulo
 
 Lorem ipsum dolor sit amet
 
-##Subtitulo 
+## Subtitulo 
 
 LOrem
 
-## SUbtitulo 2
+## Subtitulo 2
 
 ```javascript
 function (){
